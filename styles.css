@@ -5,3 +5,13 @@ h1{
 }
 
 /* Aqui se le cambia el color a los h1 titulo grande a rojo */
+
+h3{
+    color: chartreuse;
+}
+
+
+#mitituloes{
+    color: grey;
+}
+/* aqui sse cambia de color utilizando una identificacion id */
