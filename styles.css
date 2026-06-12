@@ -20,3 +20,8 @@ h3{
     color: burlywood;
 }
 /* se le coloca un color para esta clase que dirige a un titulo */
+
+.tabla{
+    border: solid 1px red;
+}
+/* se le agrego un borde a una tabla */
