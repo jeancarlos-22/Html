@@ -53,3 +53,28 @@ body{
     background-color: darkgreen;
 }
 /* al pasar el mouse por el menu mostrara el color azul */
+
+.galeria{
+    display :flex ;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+/* se le agrsgo un estilo a la clase galeria que son las fotos */
+body{
+    margin: 0;
+}
+
+.titulogaleria{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
+/* se le coloco un un color determinado a un titulo */
+.box{
+    width: 25%;
+}
+/* se especifico el tamaño */
+.box img{
+    width: 100%;
+}
+/* se aggrando los cajones de las imagenes */
