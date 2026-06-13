@@ -25,3 +25,31 @@ h3{
     border: solid 1px red;
 }
 /* se le agrego un borde a una tabla */
+
+.menu_navegacion li{
+    display: inline-block;
+}
+/* se le añadio un estilo a la clase menu de navegacion especificamente a la lista */
+
+body{
+    margin: 0;
+}
+/* se le coloco una margen a todo el body "cuerpo" mas pegada a la izquierda */
+
+.menu_navegacion{
+    background-color: burlywood;
+    padding: 10px;
+}
+/* a la clase menu de navegacion se le coloco un fondo de color naranja */
+ 
+.menu_navegacion a{
+    color: blue;
+    text-decoration: none;
+    
+}
+/* a las anclas del menu de nacegacion se puso color de la letra en azul */
+
+.menu_navegacion a:hover{
+    background-color: darkgreen;
+}
+/* al pasar el mouse por el menu mostrara el color azul */
