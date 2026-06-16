@@ -78,3 +78,13 @@ body{
     width: 100%;
 }
 /* se aggrando los cajones de las imagenes */
+
+.card a{
+    color: brown;
+}
+/* se le agrega un color a la card al ancla de color cafe  */
+
+.card a {
+    background-color: chartreuse;
+}
+/* se le puso color al boton en la parte de atras  */
